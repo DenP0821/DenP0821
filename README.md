@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DenP0821
+- 👋 Hi, I’m Denis
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning through pet-projects
 - 💞️ I’m looking to collaborate on ...
